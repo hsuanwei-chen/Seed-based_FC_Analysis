@@ -1,0 +1,9 @@
+Since we have 8 ROIs, the range will be between 1 - 8
+1 = LeftMPFC
+2 = LeftM1
+3 = LeftSMC
+4 = LeftLPMC
+5 = RightMPFC
+6 = RightM1
+7 = RightSMC
+8 = RightLPMC
